@@ -1,10 +1,4 @@
-//
-//  Numeric.swift
-//  Numeric
-//
-//  Created by Brandon Williams on 1/19/15.
-//  Copyright (c) 2015 Brandon Williams. All rights reserved.
-//
+// Copyright (c) 2015 Brandon Williams. All rights reserved.
 
 import Foundation
 
